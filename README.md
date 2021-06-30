@@ -106,7 +106,7 @@ If you want to use this library in a CMake project you can use the snippet below
 
 ```
 FetchContent_Declare(llhttp
-  URL "https://github.com/nodejs/llhttp/releases/download/v6.0.4/llhttp-release-v6.0.4.tar.gz")  # Using version 6.0.4
+  URL "https://github.com/nodejs/llhttp/releases/download/v6.0.5/llhttp-release-v6.0.5.tar.gz")  # Using version 6.0.5
 
 FetchContent_MakeAvailable(llhttp)
 
